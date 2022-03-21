@@ -12,7 +12,7 @@
  Open VS code
 
  ...
- $ npm start
+$ npm run start
  ...
 
  ## Copyrights
