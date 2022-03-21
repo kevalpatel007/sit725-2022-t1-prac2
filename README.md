@@ -11,10 +11,10 @@
 
  Open VS code
 
- ...
+ 
 $ npm run start
- ...
+
 
  ## Copyrights
 
- Copyright (s) 2022 Keval Patel
+ Copyright (c) 2022 Keval Patel
