@@ -1,0 +1,26 @@
+{
+  "name": "sit725-2022-t1-prac2",
+  "version": "1.0.0",
+  "description": "Week 2 Practical for SIT725- Applied Software Engineering",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevalpatel007/sit725-2022-t1-prac2.git"
+  },
+  "keywords": [
+    "Express",
+    "nodeJs"
+  ],
+  "author": "Keval Patel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kevalpatel007/sit725-2022-t1-prac2/issues"
+  },
+  "homepage": "https://github.com/kevalpatel007/sit725-2022-t1-prac2#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
